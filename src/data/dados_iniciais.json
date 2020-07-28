@@ -1,0 +1,195 @@
+{
+  "categorias": [
+    {
+      "titulo": "IBCB",
+      "link": "https://www.youtube.com/channel/UCA6Of4E1l56jbSqNcnTAcDg/featured",
+      "cor": "#ff6c11",
+      "link_extra": {
+        "text": "Pregações",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Você precisa nascer de novo!",
+          "url": "https://www.youtube.com/watch?v=yrmC709AfBM"
+        },
+        {
+          "titulo": "Você pode ir mais além!",
+          "url": "https://www.youtube.com/watch?v=ttwi-otlfSM"
+        },
+        {
+          "titulo": "Qual sua motivação para seguir Jesus",
+          "url": "https://www.youtube.com/watch?v=I0_5p9NxlhU"
+        },
+        {
+          "titulo": "Você é o que você consome",
+          "url": "https://www.youtube.com/watch?v=ZbPaMYbtliQ"
+        },
+        {
+          "titulo": "Contradições",
+          "url": "https://www.youtube.com/watch?v=aFL0LSiXb9g"
+        },
+        {
+          "titulo": "Culto de Oração",
+          "url": "https://www.youtube.com/watch?v=AXZiIAdYRrs"
+        },
+        {
+          "titulo": "Seja obediente",
+          "url": "https://www.youtube.com/watch?v=QbuRvsy3W5c"
+        },
+        {
+          "titulo": "Lugar secreto",
+          "url": "https://www.youtube.com/watch?v=ml6PN379eKE"
+        }        
+      ]
+    },
+    {
+      "titulo": "Culto infantil",
+      "cor": "#ff6c11",
+      "link_extra": {
+        "text": "Kids",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Amizade",
+          "url": "https://www.youtube.com/watch?v=t3CQJ79NLfM"
+        },
+        {
+          "titulo": "Não fique anceosos",
+          "url": "https://www.youtube.com/watch?v=BNZhP8ynmKA"
+        },
+        {
+          "titulo": "Obediencia",
+          "url": "https://www.youtube.com/watch?v=Mya300Ufa0M&t=71s"
+        },
+        {
+          "titulo": "Aspecto carnal e espiritual",
+          "url": "https://www.youtube.com/watch?v=B24e6EniqsM"
+        }
+      ]
+    },
+    {
+      "titulo": "Melhor série do mundo",
+      "cor": "#ff6c11",
+      "link_extra": {
+        "text": "Eu a Patroa e as Crianças (Claro)",
+        "url": "https://www.youtube.com/watch?v=0sL0Kj1yO7E"
+      },
+      "videos": [
+        {
+          "titulo": "Blecout",
+          "url": "https://www.youtube.com/watch?v=0sL0Kj1yO7E"
+        },
+        {
+          "titulo": "Tempo de qulidade",
+          "url": "https://www.youtube.com/watch?v=xzYgWjlVj6k"
+        },
+        {
+          "titulo": "Tempo de qualidade",
+          "url": "https://www.youtube.com/watch?v=V3rjPBwwGNU"
+        },
+        {
+          "titulo": "V R Rodas",
+          "url": "https://www.youtube.com/watch?v=7G-GhyxHB-0"
+        }
+      ]
+    },
+    {
+      "titulo": "Musicas",
+      "cor": "#ff6c11","link_extra": {
+        "text": "Playlist IBCB"
+      },
+      "videos": [
+        {
+          "titulo": "Maranata | Avivah (Feat. Fernanda Madaloni)",
+          "url": "https://www.youtube.com/watch?v=iS6GXPbhCwU"
+        },
+        {
+          "titulo": "LUGAR SECRETO | CLIPE OFICIAL | EP CÉU | GABRIELA ROCHA",
+          "url": "https://www.youtube.com/watch?v=YnrN0o0lubM"
+        },
+        {
+          "titulo": "Poderoso Ele é",
+          "url": "https://www.youtube.com/watch?v=0-rIHTRpdkU"
+        },
+        {
+          "titulo": "O maior vilão sou eu",
+          "url": "https://www.youtube.com/watch?v=S9tMR_0NzqE"
+        },
+        {
+          "titulo": "Luma Elpídio - Liberta-me de Mim (Video Oficial)",
+          "url": "https://www.youtube.com/watch?v=4vkhEgq3WvQ"
+        },
+        {
+          "titulo": "Jesus meu guia é",
+          "url": "https://www.youtube.com/watch?v=3k0blEgjw5A"
+        },
+        {
+          "titulo": "Jessica Augusto - Aviva-Me ",
+          "url": "https://www.youtube.com/watch?v=PfQhuvraR14"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
